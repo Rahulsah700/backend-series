@@ -2,9 +2,10 @@
   "name": "backend-with-new-js",
   "version": "1.0.0",
   "description": "A backend at chai aur code chanel",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Chai",
@@ -15,5 +16,8 @@
     "script"
   ],
   "author": "Rahul Sah",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
