@@ -1,0 +1,19 @@
+{
+  "name": "backend-with-new-js",
+  "version": "1.0.0",
+  "description": "A backend at chai aur code chanel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chai",
+    "aur",
+    "code",
+    "with",
+    "java",
+    "script"
+  ],
+  "author": "Rahul Sah",
+  "license": "ISC"
+}
